@@ -1,4 +1,4 @@
-## 🧠 React Cheat Sheet – Crucial Functionalities (with Explanations & Full Examples)
+## 🧠 React - Tailwindcss Cheat Sheet
 
 ---
 
